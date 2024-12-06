@@ -40,3 +40,7 @@ A web-based **Bank Management System** built with **HTML**, **PHP**, and **MySQL
 5. Open your browser and navigate to:
     `http://localhost/<project-folder>`
 
+## Repository Links
+- Current Repository: [View Current Repository](https://github.com/iamrlz/bank-management-system)
+- New Repository for Updates: [View Updated Repository](https://github.com/iamrlz/bank-management-system-using-php-Updated)
+
