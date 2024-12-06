@@ -30,3 +30,13 @@ A web-based **Bank Management System** built with **HTML**, **PHP**, and **MySQL
 1. Clone this repository:
    ```bash
    git clone https://github.com/iamrlz/bank-management-system.git
+
+2. Place the project files in the server's root directory (e.g., htdocs for XAMPP).
+3. Start the server and MySQL.
+4. Import the database schema:
+    - Open PHPMyAdmin.
+    - Create a new database (e.g., bank_management).
+    - Import the SQL file from the DATABASE FILE directory.
+5. Open your browser and navigate to:
+    `http://localhost/<project-folder>`
+
